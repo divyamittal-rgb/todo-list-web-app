@@ -24,6 +24,3 @@ A simple and interactive To-Do List web application built using HTML, CSS, and J
 - Add local storage for saving tasks
 - Improve UI design
 - Add task counter
-- Add local storage for saving tasks
-- Improve UI design
-- Add task counter
